@@ -9,5 +9,5 @@ public class WiseSmokeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WiseSmokeApplication.class, args);
 	}
-
+	//Hello IJ World
 }
